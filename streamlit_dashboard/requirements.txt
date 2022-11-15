@@ -1,6 +1,6 @@
-numpy
-pandas
-seaborn
-sklearn
-plotly
-matplotlib
+numpy==1.23.4
+pandas==1.5.1
+seaborn==0.12.1
+sklearn==0.0.post1
+plotly==5.11.0
+matplotlib==3.6.2
